@@ -1,4 +1,4 @@
-A calendar made with reactjs and typescript, jwt auth, json server and materialize ui.
+A calendar made with typescript,reactjs, jwt auth, json server and materialize ui.
 
 Just run the commands above to run this project.
 
